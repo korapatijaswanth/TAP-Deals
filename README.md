@@ -14,7 +14,7 @@ Phase 1: Project Setup and Planning
 
 · Set up communication channels and collaboration tools.
 
-· Local Dev Set up.
+· Local Dev Set up. 
 
 · Create initial project structure and set up version control.
 
